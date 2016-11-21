@@ -1,3 +1,3 @@
 # HTTP-DDOS-Attack
 
-$Python ddos.py [host] [payload]
+$Python  ddos.py  [host]  [payload]
